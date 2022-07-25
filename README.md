@@ -1,9 +1,8 @@
-# Amazon_Vine_Analysis
-Cloud_ETL_Analysis
+# Amazon_Vine_Analysis  Big Data using AWS service, PySpark and postgresSQL
 
-##Overview
-The requiremennt for this project was analyze Amazon reviews written by members of the paid Amazon Vine program which is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. 
-First, I selected Pet Supplies dataset from 50 datasets available and used PySpartk to extract the data and transform it DataFrames. Then Iconnected to AWS RDS instance to load the transformed data into SQL tables using PgAdmin.  For the second Deliverable,  I used PySpark through Google Colab to determine if there is any bias toward favorable reviews from Vine members in the PetSupplies  dataset. 
+## Overview
+The requirement for this project was to analyze Amazon reviews written by members of the paid Amazon Vine program which is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. 
+I selected Pet Supplies dataset from the 50 datasets available and used PySpartk to extract the data and transform it DataFrames. Then Iconnected to AWS RDS instance to load the transformed data into SQL tables using PgAdmin.  For the second Deliverable,  I used PySpark through Google Colab to determine if there is any bias toward favorable reviews from Vine members in the PetSupplies  dataset. 
 
 
 ## Results 
