@@ -42,5 +42,6 @@ Subsequently, I repeated the extraction process to perform the Vine Analysis, fi
   Vine members made  **0.3%** of 5 star reviews and  Non-Vine **99.6%**  
 
 ## Summary
-From this results, I don´t see any positive bias for reviews from the Vine program. 99 % of the positive opinions came from non-Vine reviews, so it means that Vine members are more demanding in their reviews. Maybe 
+From this results, I don´t see any positive bias for reviews from the Vine program. 99 % of the positive opinions came from non-Vine reviews. Performin a function to calculate how the Vine members rate in total the Pet Supplies, we can confirm that they have no bias.
 
+<img width="400" alt="Captura de Pantalla 2022-07-24 a la(s) 22 14 42" src="https://user-images.githubusercontent.com/102195803/180692509-27e48026-0389-4fc5-9c33-04cc31fc4e14.png">
