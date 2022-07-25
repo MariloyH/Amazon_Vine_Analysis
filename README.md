@@ -7,19 +7,25 @@ First, I selected Pet Supplies dataset from 50 datasets available and used PySpa
 
 
 ## Results 
-### Deliverable 2
+
+### Deliverable 
+
 From the Amazon Reviews Pet Supplies dataset, I extracted the data and transformed to 4 dataframes for storage as tables in PgAdmin: customer_table, product_table, review_id_table and vine_table. Subsequently, these  Databases were storage in Amazon Cloud Service.
 
-###*Customers Table*
+*Customers Table*
+
 <img width="332" alt="customers_table" src="https://user-images.githubusercontent.com/102195803/180673324-6e295f52-3a30-4260-86f4-5c62efe35e2c.png">
 
 *Products Table*
+
 <img width="749" alt="products_table" src="https://user-images.githubusercontent.com/102195803/180673317-3c7c7556-3590-4570-b8e7-6f8e5d1e0d37.png">
 
 *Review Id Table*
+
 <img width="682" alt="review_id_table" src="https://user-images.githubusercontent.com/102195803/180673312-8b8cd03f-13d9-4c9c-aa84-2a9c5747f0be.png">
 
 *Vine Table*
+
 <img width="587" alt="vine_table" src="https://user-images.githubusercontent.com/102195803/180673329-404df172-ac91-430f-9c0a-86e0ac926919.png">
 
 ### Deliverable 2
